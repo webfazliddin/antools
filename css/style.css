@@ -1,0 +1,269 @@
+*{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+.navbar-nav{
+  margin-left: 400px;
+}
+.title{
+  margin-top: 178px;
+  color: white;
+}
+.title-info{
+  color: #797575;
+  margin-top: 30px;
+}
+.fa-search{
+  color: #FFFFFF;
+}
+.search1{
+  margin-top: 60px;
+  border-radius: 6px;
+  width: 497px;
+}
+.bg-dark1{
+  background: #212529;
+  height: 700px;
+}
+.search1-btn{
+  margin-left: 10px;
+}
+.img-fluid{
+  margin-top: 130px;
+}
+.fab{
+  color: #FFFFFF;
+  width: 58px;
+  height: 58px;
+  margin-top: 92px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.popular{
+  background: #212529;
+  height: 1229px;
+  padding-top: 200px;
+}
+.card1{
+  width: 392px;
+  height: 294px;
+  border-radius: 15px;
+  
+}
+.card20{
+  width: 392px;
+  height: 294px;
+  border-radius: 15px;
+  background: rgb(184, 176, 176);
+  margin-top: -25px;
+}
+.fa-figma{
+  margin-top: 34px;
+  margin-left: 43px;
+  color: palevioletred;
+  display: inline;
+  font-size: 40px;
+}
+.title-card{
+  margin-top: 23px;
+  margin-left: 30px;
+  display: inline;
+  color: #FFFFFF;
+}
+.info{
+  margin-left: 137px;
+  color: #9A6B32;
+}
+.info2{
+  margin-left: 33px;
+  color: #b4aaaa;
+}
+.fa-heart{
+  margin-top: 51px;
+  margin-left: 41px;
+  padding: 10px;
+  color: #f50000;
+}
+.card-link{
+  width: 106px;
+  height: 42px;
+  margin-left: 132px;
+  text-decoration: none;
+  font-family: bold;
+  color: #FFFFFF;
+}
+.fa-folder{
+  color: #797575;
+  font-size: 25px;
+}
+.row{
+  padding-top: 100px;
+}
+.fa-linkedin-in{
+  margin-top: 34px;
+  margin-left: 43px;
+  color: rgb(2, 25, 235);
+  display: inline;
+  font-size: 40px;
+}
+.insta-card{
+  margin-top: 34px;
+  margin-left: 43px;
+  color: rgb(240, 84, 84);
+  display: inline;
+  font-size: 40px;
+}
+.fa-telegram{
+  margin-top: 34px;
+  margin-left: 43px;
+  color: rgb(37, 139, 255);
+  display: inline;
+  font-size: 40px;
+}
+.notion{
+  margin-top: 34px;
+  margin-left: 43px;
+  color: palevioletred;
+  display: inline;
+  font-size: 40px;
+}
+.btn-warning{
+  border-radius: 5px;
+  font-size: 20px;
+}
+.title1{
+  color: white;
+  margin-left: 443px;
+}
+.info3{
+  color: #a7a7a4;
+  margin-left: 477px;
+}
+.card-btn1{
+  margin-top: 40px;
+}
+.brands{
+  margin-left: 108px;
+  width: 1224px;
+  height: 253px;
+  background: #212529;
+  border-radius: 6px solid black;
+  background: url(../img/Rectangle\ 308.png) no-repeat;
+}
+.brands121{
+  background: #212529;
+}
+.img3{
+  margin-top: 50px;
+  margin-left: 60px;
+}
+.carusel{
+  padding-top: 100px;
+  height: 600px;
+  background: #212529;
+}
+/*newcomeer*/
+.newcommer{
+  padding-top: 100px;
+  background: #212529;
+  height: 1038px;
+}
+.newcomer-card{
+  width: 288px;
+  height: 284px;
+  border-radius: 15px;
+}
+.newcommer-p{
+  color: #84878a;
+}
+
+.btn-3{
+  width: 198px;
+  height: 58px;
+}
+.newcommer-info{
+ 
+ 
+  margin-top: 3px;
+  margin-left: 74px;
+  color: #9A6B32;
+}
+.newcomeer-p{
+  color: #84878a;
+  width: 245px;
+  height: 60px;
+}
+.fa-heart{
+  color: #797575;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 3px;
+}
+.fa-folder-plus{
+  color: #797575;
+  font-size: 25px; 
+  
+}
+.fas{
+  cursor: pointer;
+}
+.far{
+  cursor: pointer;
+}
+.newcommer-link{
+  text-decoration: none;
+  color: #797575;
+}
+.card30{
+  background: #242C32;
+  border-radius: 15px;
+}
+
+/*carousel*/
+.carousel{
+  height: 700px;
+  background: #212529;
+}
+.carousel-indicators{
+  margin-top: 30px !important; 
+}
+.carousel-item p{
+  color: rgb(177, 171, 171);
+}
+.contributer{
+  width: 100%;
+  height: 611px;
+  background: #212529;
+}
+.contributer-info{
+  position: absolute;
+  margin-left: 444px;
+  margin-top: 250px;
+}
+.btn10{
+  width: 130px;
+  height: 48px;
+  background: rgb(97, 79, 79);
+}
+/*footer*/
+.footer{
+  background: #212529;
+  border-top: 0.5px solid rgba(255, 255, 255, 0.15);
+  padding-bottom: 100px;
+}
+.footer  h4,h3{
+  color: #fff;
+}
+.footer p{
+  color: rgb(177, 171, 171);;
+}
+.link-header{
+  font-size: 22px;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  margin-left: 50px;
+}
+.link-header img{
+  margin-right: 15px;
+}
